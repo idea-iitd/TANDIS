@@ -1,5 +1,5 @@
 # Task and Model Agnostic Adversarial Attack on Graph Neural Networks
-Supplementary code for the work by the same name submitted to NeurIPS 2021.
+Code for the above accepted at AAAI 2023 Safe and Robust AI track.
 
 # Requirements
 We use Python 3.6 to run each file. Our code is largely based on PyTorch and uses PyTorch Geometric, which can be installed following the steps noted [here](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) for your specific system configuration. The code is tested to work with PyTorch 1.8, which can also be installed for your specific configuration following these [steps](https://pytorch.org/get-started/locally/).
@@ -87,4 +87,13 @@ The file `Interpretability/eda_GRAND_comm.py` is used to get the results for int
 
 1. Since we have conducted the experiment on cora only, that is hardcoded and not taken as a parameter.
 2. It would generate two csv files, one containing spearman's correlation of distortion scores for each target, with various properties, and the second one would similarly contain the corresponding pvalues.
+
+# Citation
+
+> @article{sharma2021task,
+>  title={Task and Model Agnostic Adversarial Attack on Graph Neural Networks},
+>  author={Sharma, Kartik and Verma, Samidha and Medya, Sourav and Ranu, Sayan and Bhattacharya, Arnab},
+>  journal={arXiv preprint arXiv:2112.13267},
+>  year={2021}
+> }
 ​
