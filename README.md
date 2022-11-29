@@ -91,9 +91,9 @@ The file `Interpretability/eda_GRAND_comm.py` is used to get the results for int
 # Citation
 
 > @article{sharma2021task,
->   title={Task and Model Agnostic Adversarial Attack on Graph Neural Networks},
->   author={Sharma, Kartik and Verma, Samidha and Medya, Sourav and Ranu, Sayan and Bhattacharya, Arnab},
->   journal={arXiv preprint arXiv:2112.13267},
->   year={2021} 
-> }
+   title={Task and Model Agnostic Adversarial Attack on Graph Neural Networks},
+   author={Sharma, Kartik and Verma, Samidha and Medya, Sourav and Ranu, Sayan and Bhattacharya, Arnab},
+   journal={arXiv preprint arXiv:2112.13267},
+   year={2021} 
+ }
 ​
