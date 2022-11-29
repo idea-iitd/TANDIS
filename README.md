@@ -32,9 +32,7 @@ Then, one needs to follow the following steps in order to train an attack model 
 
 
 ## TANDIS: Targeted Attack via Neighborhood DIStortion
-Train pipeline           |  Test
-:-------------------------:|:-------------------------:
-![](train_pipeline.png)  |  ![](test_pipeline.png)
+![](new pipeline.jpeg)
 
 <!-- ![Train](train_pipeline.png) 
 ![Test](test_pipeline.png) -->
