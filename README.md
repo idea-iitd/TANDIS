@@ -1,5 +1,5 @@
 # Task and Model Agnostic Adversarial Attack on Graph Neural Networks
-Code for the above accepted at AAAI 2023 Safe and Robust AI track.
+Code for the paper accepted at AAAI 2023 Safe and Robust AI track. Preprint available [here](https://arxiv.org/abs/2112.13267)
 
 ## Requirements
 We use Python 3.6 to run each file. Our code is largely based on PyTorch and uses PyTorch Geometric, which can be installed following the steps noted [here](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) for your specific system configuration. The code is tested to work with PyTorch 1.8, which can also be installed for your specific configuration following these [steps](https://pytorch.org/get-started/locally/).
